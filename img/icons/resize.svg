@@ -1,0 +1,11 @@
+<svg id="Component_8_1" data-name="Component 8 – 1" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(5 5)" fill="#fff" stroke="#e8e8e8" stroke-width="1.5">
+    <circle cx="35" cy="35" r="35" stroke="none"/>
+    <circle cx="35" cy="35" r="34.25" fill="none"/>
+  </g>
+  <path id="resize_1_" data-name="resize (1)" d="M20.918,11.16a1.082,1.082,0,0,0-1.082,1.082V18.3L3.7,2.165H9.757A1.082,1.082,0,0,0,9.757,0H1.082A1.082,1.082,0,0,0,0,1.082V9.757a1.082,1.082,0,0,0,2.165,0V3.7L18.3,19.835H12.243a1.082,1.082,0,1,0,0,2.165h8.675A1.082,1.082,0,0,0,22,20.918V12.243A1.082,1.082,0,0,0,20.918,11.16Z" transform="translate(29 29)" fill="#222220"/>
+  <g id="Rectangle_111" data-name="Rectangle 111" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="80" height="80" stroke="none"/>
+    <rect x="0.5" y="0.5" width="79" height="79" fill="none"/>
+  </g>
+</svg>
